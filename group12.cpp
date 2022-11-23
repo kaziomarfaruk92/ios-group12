@@ -4,7 +4,8 @@ int main() {
    int sea, c, n=6;
    int arr[] = {12, 35, 69, 74, 165, 54};
 
-   sea = 35;
+   sea = 54;
+
 
 
    for (c = 0; c < n; c++) {
@@ -12,6 +13,8 @@ int main() {
 
          print("Found by omar30014")
 
+
+         print("founded by Airin")
 
          print("Found in Ashikur Rahman")
 
