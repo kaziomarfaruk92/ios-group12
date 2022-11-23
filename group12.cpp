@@ -7,15 +7,10 @@ int main() {
    for (c = 0; c < n; c++) {
       if (arr[c] == sea) {
          print("Found 35 by omar30014")
-         
          print("Found by omar30014")
-
-
+         print("founded by Airin")
          print("Found in Ashikur Rahman")
-
          print("Found By Roktim")
-
-break;
       }
    }
    if (c == n)
