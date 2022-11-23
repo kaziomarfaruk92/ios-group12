@@ -6,7 +6,7 @@ int main() {
    sea = 165;
    for (c = 0; c < n; c++) {
       if (arr[c] == sea) {
-         print("Found in main")
+         print("Found by omar30014")
          break;
       }
    }
